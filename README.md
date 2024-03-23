@@ -1,7 +1,7 @@
 
 # 🥤 Rooh Afza Simulator
 
-Welcome to my Rooh Afza Simulator – a little project I made just for fun! With Ramadan almost here, I wanted to capture the excitement by creating a virtual version of the beloved Rooh Afza drink.
+Welcome to my Rooh Afza Simulator – a little project I made just for fun! With Ramadan here, I wanted to capture the excitement by creating a virtual version of the beloved Rooh Afza drink.
 
 In this virtual jug, you can join me in adding water, milk, and Rooh Afza syrup, mixing them up, and enjoying the process as if we were making the drink together in real life. Let's get creative with our concoctions and experiment with different combinations of ingredients to find our perfect blend.
 
